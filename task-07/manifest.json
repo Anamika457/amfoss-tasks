@@ -1,0 +1,14 @@
+{
+    "name": "Weather Report",
+    "version": "0.0.1",
+    "description": "weather in your city",
+    "manifest_version": 3,
+    "permissions":[
+        "geolocation"
+    ],
+    "author":"anamika v menon",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"Weather Report"
+}
+}
