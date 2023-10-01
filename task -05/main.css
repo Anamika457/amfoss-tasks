@@ -1,0 +1,116 @@
+.body{
+    background-color: #0B0B21;
+}
+
+
+.images {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  
+  .bg {
+    position: absolute;
+    height: 100vh;
+    left: 0;  
+    
+  }
+
+  
+
+
+  
+  .imgtext {
+    position: absolute;
+    top: 550px;
+    left: 330px;
+  }
+
+
+
+
+  .text{
+    position:absolute;
+    color: white;
+    font-family: Verdana;
+    top: 480px;
+    left: 650px;
+    font-size: 45px;
+    align-items: center;
+    
+  }
+
+  .bar{
+    position: absolute;
+    
+    align-items: center;
+
+  }
+
+  .img1{
+    
+    float:left;
+    padding: 5px;
+    width: 40px;
+    height: 40px;
+    
+  }
+
+   
+  .img2{
+    position: absolute;
+    top:10px;
+    left:1240px;
+    width: 35px;
+    height: 35px;
+  }
+  .img3{
+    position: absolute;
+    top:10px;
+    left:1290px;
+    
+  }
+  .img4{
+    position: absolute;
+    top:10px;
+    left:1340px;
+    
+  }
+  .img5{
+    position: absolute;
+    top:10px;
+    left:1390px;
+    
+  }
+
+  .explore{
+    position: absolute;
+    font-family: Tahoma;
+    color: black;
+    background-color: #2BDAE1;
+    height: 25px;
+    width: 200px;
+    top: 650px;
+    left: 630px;
+    font-size: 20px;
+    align-items: center;
+    padding-left:10px;
+    padding-right: 10px;
+    padding-top:10px;
+    padding-bottom:10px;
+   
+
+  }
+
+
+  .arrow{
+    position:absolute;
+    top:647px;
+    left: 650px;
+  }
+
+
+
+
+  
+
