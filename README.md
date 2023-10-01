@@ -32,6 +32,7 @@ The tasks provided a huge opportunity to everyone to  learn a lot of new stuff. 
 --------------|---------------|---------------
 [Introspection](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/introspection)|Introspection|Completed
 [Task-01](https://github.com/Anamika457/amfoss-tasks/tree/main/task-01)|Terminal Wizard|Completed
+[Task-02](https://github.com/Anamika457/amfoss-tasks/tree/main/task-02)|Lessgo Hugo| Completed Partially
 [Task-03](https://github.com/Anamika457/amfoss-tasks/tree/main/task-03)|Hello,World!|Completed
 [Task-04](https://github.com/Anamika457/amfoss-tasks/tree/main/task-03/TASK-04)|Competitive Programming|Completed Partially
 [Task-05](https://github.com/Anamika457/amfoss-tasks/tree/main/task%20-05)|Hypertext Mockup Language| Completed
